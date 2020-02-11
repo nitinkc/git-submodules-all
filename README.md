@@ -1,4 +1,4 @@
-# Git Sumodules
+# Git Submodules
 
 Detached Head Problem
 
