@@ -1,0 +1,3 @@
+[submodule "advanced-git-experiments"]
+	path = advanced-git-experiments
+	url = https://github.com/nitinkc/advanced-git-experiments.git
