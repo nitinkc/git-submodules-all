@@ -1,6 +1,11 @@
-# Git Submodules
 
-Detached Head Problem
+# Clone all projects
+
+```sh
+git clone --recurse-submodules -j6 https://github.com/nitinkc/git-submodules-all.git
+```
+
+# Detached Head Problem
 
 ```sh
 git log --graph --decorate --pretty=oneline --abbrev-commit master origin/master
@@ -12,3 +17,4 @@ git merge temp
 // delete branch locally
 git branch -d temp
 ```
+
