@@ -2,5 +2,5 @@
 	path = advanced-git-experiments
 	url = https://github.com/nitinkc/advanced-git-experiments.git
 [submodule "git-tests"]
-	path = git-tests
-	url = https://github.com/nitinkc/git-tests.git
+	path = git-multiRepo
+	url = https://github.com/nitinkc/git-multiRepo
