@@ -1,4 +1,3 @@
-
 # Clone all projects
 
 ```sh
@@ -17,4 +16,15 @@ git merge temp
 // delete branch locally
 git branch -d temp
 ```
+
+# Config
+
+For all the submodules, the `gitconfig` can be located 
+
+`/git-submodules-all/.git/modules/git-tests`
+
+# Multi Repo Project 
+
+
+
 
